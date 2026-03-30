@@ -1,2 +1,4 @@
-public int[] twoSum(int[] arr, target){
+import java.util.HashMap;
+public int[] twoSum(int[] nums, int target){
+   
 }
