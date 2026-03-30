@@ -6,4 +6,6 @@ public int[] twoSum(int[] nums, int target){
       hm.put(num, count); //inserting integer key and index value
       count++;
    }
+
+   int complement = 
 }
