@@ -3,7 +3,7 @@
 ### Problem Statement
 Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
 
-<a href=https://leetcode.com/problems/two-sum/ target="_blank">Two Sum</a>
+<a href=https://leetcode.com/problems/two-sum/" target="_blank">Two Sum</a>
 
 ### Constraints
 * `2 <= nums.length <= 10^4`
